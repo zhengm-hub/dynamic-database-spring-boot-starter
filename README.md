@@ -1,5 +1,9 @@
 ### dynamic db
 
+> 参考
+
+[baomidou/dynamic-datasource-spring-boot-starter](https://github.com/baomidou/dynamic-datasource-spring-boot-starter)
+
 > 引入依赖
 
 ```javascript
